@@ -1,3 +1,3 @@
-/*$(".btn").click(function() {
-    $("#text").attr("float-right");
-});*/
+$(".btn").click(function() {
+    $("#text").attr("class", "float-right");
+});
