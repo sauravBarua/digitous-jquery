@@ -1,1 +1,1 @@
-$("#text").addClass("intro");
+$("#text").addClass("float-right");
