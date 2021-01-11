@@ -1,1 +1,1 @@
-$("#text").css({ "float": "right" });
+$("#text").attr("intro");
