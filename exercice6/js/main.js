@@ -1,1 +1,1 @@
-$("#text").html("Konexio!");
+$("#text").html("<i>Konexio!</i>");
