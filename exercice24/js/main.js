@@ -1,3 +1,3 @@
-/*$("button").click(function() {
-    $("#bg").animate({ right: '100px' });
-});*/
+    $("button").click(() => {
+        $("#bg").animate({ marginLeft: '100px' });
+    });
