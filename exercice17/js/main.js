@@ -1,3 +1,6 @@
-$("button").click(function() {
-    $("#text").show();
+$(document).ready(function() {
+    $("button").click(function() {
+        $("#text").show();
+    });
+
 });

@@ -1,1 +1,4 @@
-$("#text").addClass("float-right");
+$(document).ready(function() {
+    $("#text").addClass("float-right");
+
+});

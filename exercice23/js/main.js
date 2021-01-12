@@ -1,3 +1,5 @@
-$("button").click(function() {
-    $("#square").animate({ bottom: "5px", left: '250px' });
+$(document).ready(function() {
+    $("button").click(function() {
+        $("#square").animate({ bottom: "5px", left: '250px' });
+    });
 });

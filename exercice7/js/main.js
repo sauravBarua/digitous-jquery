@@ -1,1 +1,4 @@
-$("#text").show();
+$(document).ready(function() {
+    $("#text").show();
+
+});

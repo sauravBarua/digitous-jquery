@@ -1,4 +1,7 @@
-$(".btn").click(function() {
-    $("#text").css({ display: "block" });
+$(document).ready(function() {
+    $(".btn").click(function() {
+        $("#text").css({ display: "block" });
+
+    });
 
 });
