@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $("button").click(() => {
-        $("input").val("is-valid");
+    $("button").click(function() {
+        $("input").addClass("is-valid");
     });
 });
